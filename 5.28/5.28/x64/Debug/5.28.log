@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\USER\Desktop\程式指派功課\5.28\5.28\Source.cpp(19,13): warning C4473: 'scanf_s' : 傳遞給格式字串的引數不足
+      C:\Users\USER\Desktop\程式指派功課\5.28\5.28\Source.cpp(19,13):
+      預留位置及其參數需要 2 個 variadic 引數，但卻提供了 1 個
+      C:\Users\USER\Desktop\程式指派功課\5.28\5.28\Source.cpp(19,13):
+      缺少 variadic 引數 2 (其為格式字串 '%c' 所需)
+      C:\Users\USER\Desktop\程式指派功課\5.28\5.28\Source.cpp(19,13):
+      此引數可用為緩衝區大小
+  
+  5.28.vcxproj -> C:\Users\USER\Desktop\程式指派功課\5.28\x64\Debug\5.28.exe
